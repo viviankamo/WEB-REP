@@ -1,0 +1,27 @@
+{
+  "name": "WEB-REP",
+  "version": "1.0.0",
+  "description": "Demo of base server",
+  "main": "app.js",
+  "scripts": {
+    "dev": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viviankamo/WEB-REP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viviankamo/WEB-REP/issues"
+  },
+  "homepage": "https://github.com/viviankamo/WEB-REP#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
